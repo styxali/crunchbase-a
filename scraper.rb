@@ -1,3 +1,4 @@
+require 'scraperwiki'
 # this stuff just allows you
 # to run the script outside ScraperWiki
 begin
